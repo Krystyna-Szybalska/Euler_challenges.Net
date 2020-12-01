@@ -1,0 +1,7 @@
+C:\Users\Krysia\source\repos\Euler challenges\Euler challenges\bin\Debug\Euler challenges.exe.config
+C:\Users\Krysia\source\repos\Euler challenges\Euler challenges\bin\Debug\Euler challenges.exe
+C:\Users\Krysia\source\repos\Euler challenges\Euler challenges\bin\Debug\Euler challenges.pdb
+C:\Users\Krysia\source\repos\Euler challenges\Euler challenges\obj\Debug\Euler challenges.csprojAssemblyReference.cache
+C:\Users\Krysia\source\repos\Euler challenges\Euler challenges\obj\Debug\Euler challenges.csproj.CoreCompileInputs.cache
+C:\Users\Krysia\source\repos\Euler challenges\Euler challenges\obj\Debug\Euler challenges.exe
+C:\Users\Krysia\source\repos\Euler challenges\Euler challenges\obj\Debug\Euler challenges.pdb
