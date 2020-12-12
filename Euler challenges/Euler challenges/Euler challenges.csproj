@@ -50,6 +50,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Euler10.cs" />
+    <Compile Include="Euler11.cs" />
     <Compile Include="Euler7.cs" />
     <Compile Include="Euler6.cs" />
     <Compile Include="Euler8.cs" />

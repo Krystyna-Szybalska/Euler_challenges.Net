@@ -25,10 +25,7 @@ namespace Euler_challenges
 
             Console.WriteLine(number);
             stopwatch.Stop();
-
             Console.WriteLine(stopwatch.Elapsed);
-            Console.ReadLine();
-            
         }
     }
 }

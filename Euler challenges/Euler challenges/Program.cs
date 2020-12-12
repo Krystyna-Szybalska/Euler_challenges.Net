@@ -10,7 +10,7 @@ namespace Euler_challenges
     {
         public static void Main()
         {
-            Euler9.Start();
+            Euler10.Start();
             Console.ReadKey();
         }
     }
