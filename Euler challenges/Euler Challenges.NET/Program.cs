@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Euler_challenges
+namespace Euler_challenges.NET
 {
     class Program
     {
         public static void Main()
         {
-            Euler10.Start();
+            Proby.Start();
             Console.ReadKey();
         }
     }

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Euler_challenges
+namespace Euler_challenges.NET
 {
     class Euler8 //Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
     {

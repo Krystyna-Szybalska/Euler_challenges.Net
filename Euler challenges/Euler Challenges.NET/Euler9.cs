@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Euler_challenges
+namespace Euler_challenges.NET
 {
     class Euler9 //There exists exactly one Pythagorean triplet for which a + b + c = 1000. Find the product abc.
     {

@@ -2,7 +2,7 @@
 using System;
 using System.Diagnostics;
 
-namespace Euler_challenges
+namespace Euler_challenges.NET
 {
     class Euler1
     {
